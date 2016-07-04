@@ -1,0 +1,16 @@
+PODS:
+  - pingbox (0.1.0)
+
+DEPENDENCIES:
+  - pingbox (from `../`)
+
+EXTERNAL SOURCES:
+  pingbox:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  pingbox: ccf9ecf16e9b866a70bca176cebd82aceb8e8037
+
+PODFILE CHECKSUM: 0485ef97033e4055e1af335b110dfaeca2b2661f
+
+COCOAPODS: 1.0.1

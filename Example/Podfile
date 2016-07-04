@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'pingbox_Example' do
+  pod 'pingbox', :path => '../'
+
+  target 'pingbox_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

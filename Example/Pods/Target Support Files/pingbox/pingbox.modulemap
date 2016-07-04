@@ -1,0 +1,6 @@
+framework module pingbox {
+  umbrella header "pingbox-umbrella.h"
+
+  export *
+  module * { export * }
+}
