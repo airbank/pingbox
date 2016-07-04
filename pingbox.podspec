@@ -16,7 +16,7 @@ view stack in the bottom of the screen, with a "cancel" and "approve" buttons".
   DESC
 
   s.homepage         = 'https://github.com/airbank/pingbox'
-  s.screenshots     = 'https://raw.githubusercontent.com/airbank/pingbox/master/screenshot.png'
+  s.screenshots     = 'https://raw.githubusercontent.com/airbank/pingbox/master/docs/animation.gif'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Petr Dvorak' => 'petr@lime-company.eu' }
   s.source           = { :git => 'https://github.com/airbank/pingbox.git', :tag => s.version.to_s }
