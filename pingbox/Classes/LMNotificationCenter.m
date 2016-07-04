@@ -44,7 +44,7 @@
 
 - (void) cancelButtonPressed:(UIButton*)sender {
     __weak UIView *parent = sender.superview;
-    int index = [self.views indexOfObject:parent];
+    NSUInteger index = [self.views indexOfObject:parent];
     LMNotification *notification = [self.notifications objectAtIndex:index];
     [self removeNotification:notification];
     if ([self.delegage respondsToSelector:@selector(didCloseNotification:)]) {
@@ -54,7 +54,7 @@
 
 - (void) approveButtonPressed:(UIButton*)sender {
     __weak UIView *parent = sender.superview;
-    int index = [self.views indexOfObject:parent];
+    NSUInteger index = [self.views indexOfObject:parent];
     LMNotification *notification = [self.notifications objectAtIndex:index];
     [self removeNotification:notification];
     if ([self.delegage respondsToSelector:@selector(didOpenNotification:)]) {
