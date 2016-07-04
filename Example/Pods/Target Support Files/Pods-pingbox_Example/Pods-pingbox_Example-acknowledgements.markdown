@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## pingbox
 
-Copyright (c) 2016 Petr Dvorak <petr@inmite.eu>
+Copyright (c) 2016 Air Bank, http://airbank.cz/
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

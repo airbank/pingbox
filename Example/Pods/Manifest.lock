@@ -1,5 +1,5 @@
 PODS:
-  - pingbox (0.1.0)
+  - pingbox (1.0.0)
 
 DEPENDENCIES:
   - pingbox (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  pingbox: ccf9ecf16e9b866a70bca176cebd82aceb8e8037
+  pingbox: 1b5521991e5688590af71867c8b36c707e52eb38
 
 PODFILE CHECKSUM: 0485ef97033e4055e1af335b110dfaeca2b2661f
 

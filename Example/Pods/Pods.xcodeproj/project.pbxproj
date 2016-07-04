@@ -9,19 +9,19 @@
 /* Begin PBXBuildFile section */
 		0144AA983EF286733BE8AA21B7112806 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
 		017C18301E52D5BABDF65932A982A4C4 /* Pods-pingbox_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2206647909E502F50E7181AFDB06F2C5 /* Pods-pingbox_Example-dummy.m */; };
-		0817EE49AEAEE2346A54C0AA5B8BFA49 /* pingbox-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DFC19F46D403D539B6ED3C2AB9CD7854 /* pingbox-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0A775769424CAD95657CFA6240CE51A1 /* LMTopAlignedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3122D39DF9AE534DF17436CA2EF2E2B0 /* LMTopAlignedLabel.m */; };
 		18753E48B049B1E31845499A2648D240 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
-		1BDF0E5A1D26AD7F0052176C /* LMConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BDF0E581D26AD7F0052176C /* LMConfiguration.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1BDF0E5B1D26AD7F0052176C /* LMConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BDF0E591D26AD7F0052176C /* LMConfiguration.m */; };
-		1BF84D841D21E3810091746D /* LMTopAlignedLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BF84D821D21E3810091746D /* LMTopAlignedLabel.h */; };
-		1BF84D851D21E3810091746D /* LMTopAlignedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BF84D831D21E3810091746D /* LMTopAlignedLabel.m */; };
-		20F6DE65B44F9BFF9C89443F4431FAC1 /* pingbox-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A4D73A31D0817DB36C9AA4CC810702A4 /* pingbox-dummy.m */; };
-		23642AD51C0CCE9852947ABAC9561605 /* LMNotification.h in Headers */ = {isa = PBXBuildFile; fileRef = 1EBCED6317A8050202B28F9A6066BAB1 /* LMNotification.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		28C2A090D7A894D3E44710C4A3141C20 /* pingbox-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A4D73A31D0817DB36C9AA4CC810702A4 /* pingbox-dummy.m */; };
+		29585D0357207CEF71D4068D78DE9A29 /* LMTopAlignedLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 2EFFFED0ECDF6D49A1BDF2AD663952D2 /* LMTopAlignedLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2AAEBB92DC7017B71838C4A6964A66BE /* Pods-pingbox_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CE3141F98222E9DBAD5AA5AE0FB2D42E /* Pods-pingbox_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3C21FF0A6782181C6B09DF4EE39056F6 /* LMNotificationCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 2942AB24D2984AE07EAC2F528F638FC5 /* LMNotificationCenter.m */; };
-		4E0A2ACE874BF6E12FB5E16DB4ACD501 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
-		6E52E1DCBA20A4DD123B133E6E396CDB /* LMNotificationCenter.h in Headers */ = {isa = PBXBuildFile; fileRef = 456F7CF8603769352629A6CF7A5FB20F /* LMNotificationCenter.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DD7B1209612A523A57888F1B6DD80CE6 /* LMNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 89EA95DD2E14776353ECEE96C9BE48EB /* LMNotification.m */; };
+		3FF986DE8393E9752F2575EC30139125 /* LMNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 91A7793AAE1296E151D9FC6D7F34D53A /* LMNotification.m */; };
+		4455A822B756EF4845A89091D1E1E7B7 /* LMConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = E0E5A7A197A84F7EE05A26D5EACB7461 /* LMConfiguration.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4E2FA1ADBB33CF6DAB3A50F234911F0B /* LMNotification.h in Headers */ = {isa = PBXBuildFile; fileRef = 1F5279257D935FD36268B12591FAA0BE /* LMNotification.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		55622E373D1DBF115C373DE21A27CC96 /* LMNotificationCenter.h in Headers */ = {isa = PBXBuildFile; fileRef = B094C3134724866DC01D0FC667862BF8 /* LMNotificationCenter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5A0203338566ED838CBF9DB238CB838F /* LMNotificationCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 99B117B1C30DA2096E4E73BB0A92A014 /* LMNotificationCenter.m */; };
+		69D7A340221E9EFBD94491EF2CC83BFA /* LMConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 69421C10C826AECD33BFA788695D9023 /* LMConfiguration.m */; };
+		B02F2BFCF6970E515C48946281A21DBE /* pingbox-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DFC19F46D403D539B6ED3C2AB9CD7854 /* pingbox-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E25C5F00E817036BA89F8906D9D3E6EA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
 		F5440654B23C855111FA8C74CDC9DE5C /* Pods-pingbox_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F46F2BB722562632FF2AF01076848D6 /* Pods-pingbox_Tests-dummy.m */; };
 		FF7D3C95591C9B6B9EC2BE7256C3E4C6 /* Pods-pingbox_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6C75DBED74605F2D8F7185D0F47DDC64 /* Pods-pingbox_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
@@ -31,7 +31,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E83155F7B91DBE21952C0EDD5E39F3A2;
+			remoteGlobalIDString = B89EBDB7263E274527831D4282AB89B8;
 			remoteInfo = pingbox;
 		};
 /* End PBXContainerItemProxy section */
@@ -39,28 +39,27 @@
 /* Begin PBXFileReference section */
 		030193612F6BF595A210A27FF99115F6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0520FCB0D860EA7A742174FCBC6F3E1A /* Pods-pingbox_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-pingbox_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		1BDF0E581D26AD7F0052176C /* LMConfiguration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LMConfiguration.h; sourceTree = "<group>"; };
-		1BDF0E591D26AD7F0052176C /* LMConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LMConfiguration.m; sourceTree = "<group>"; };
-		1BF84D821D21E3810091746D /* LMTopAlignedLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LMTopAlignedLabel.h; sourceTree = "<group>"; };
-		1BF84D831D21E3810091746D /* LMTopAlignedLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LMTopAlignedLabel.m; sourceTree = "<group>"; };
-		1EBCED6317A8050202B28F9A6066BAB1 /* LMNotification.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LMNotification.h; sourceTree = "<group>"; };
+		1F5279257D935FD36268B12591FAA0BE /* LMNotification.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LMNotification.h; sourceTree = "<group>"; };
 		2206647909E502F50E7181AFDB06F2C5 /* Pods-pingbox_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-pingbox_Example-dummy.m"; sourceTree = "<group>"; };
 		263AD38336898D34F43845552106CF83 /* Pods-pingbox_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-pingbox_Tests-resources.sh"; sourceTree = "<group>"; };
-		2942AB24D2984AE07EAC2F528F638FC5 /* LMNotificationCenter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = LMNotificationCenter.m; sourceTree = "<group>"; };
+		2EFFFED0ECDF6D49A1BDF2AD663952D2 /* LMTopAlignedLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LMTopAlignedLabel.h; sourceTree = "<group>"; };
+		3122D39DF9AE534DF17436CA2EF2E2B0 /* LMTopAlignedLabel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = LMTopAlignedLabel.m; sourceTree = "<group>"; };
 		3A1DF6E3383AE0A8E2AAA4DF862E4987 /* Pods-pingbox_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-pingbox_Tests.modulemap"; sourceTree = "<group>"; };
 		3F394BB2F91D74688CA4EB1492F8738C /* Pods-pingbox_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-pingbox_Example-resources.sh"; sourceTree = "<group>"; };
 		3F46F2BB722562632FF2AF01076848D6 /* Pods-pingbox_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-pingbox_Tests-dummy.m"; sourceTree = "<group>"; };
 		42F42F91FA41A7DE45E77E6677BD3342 /* Pods-pingbox_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-pingbox_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		456F7CF8603769352629A6CF7A5FB20F /* LMNotificationCenter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LMNotificationCenter.h; sourceTree = "<group>"; };
 		621F346210E076B9BFC6ABB064265EFB /* Pods-pingbox_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-pingbox_Example.modulemap"; sourceTree = "<group>"; };
+		69421C10C826AECD33BFA788695D9023 /* LMConfiguration.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = LMConfiguration.m; sourceTree = "<group>"; };
 		6AB43E24CA6670FCDBB6572CCD1BC147 /* Pods-pingbox_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-pingbox_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6C75DBED74605F2D8F7185D0F47DDC64 /* Pods-pingbox_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-pingbox_Example-umbrella.h"; sourceTree = "<group>"; };
 		7915F2C27E8A1BE5C4C9DE7B5B0A4C74 /* pingbox.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = pingbox.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		896B3B701212E99EE694103E9EF46465 /* Pods-pingbox_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-pingbox_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		89EA95DD2E14776353ECEE96C9BE48EB /* LMNotification.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = LMNotification.m; sourceTree = "<group>"; };
 		8E2EBCB508ADCD46CE50FB12F641197C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		91A7793AAE1296E151D9FC6D7F34D53A /* LMNotification.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = LMNotification.m; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		99B117B1C30DA2096E4E73BB0A92A014 /* LMNotificationCenter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = LMNotificationCenter.m; sourceTree = "<group>"; };
 		A4D73A31D0817DB36C9AA4CC810702A4 /* pingbox-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "pingbox-dummy.m"; sourceTree = "<group>"; };
+		B094C3134724866DC01D0FC667862BF8 /* LMNotificationCenter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LMNotificationCenter.h; sourceTree = "<group>"; };
 		B2B73169402D4C9E3B1AAEE09FF0C5BD /* pingbox-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "pingbox-prefix.pch"; sourceTree = "<group>"; };
 		B558E461550C6510DCCE8F47E1A6BB6E /* pingbox.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = pingbox.modulemap; sourceTree = "<group>"; };
 		B90C71A9CEF089FB434F0326662CD44E /* Pods-pingbox_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-pingbox_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -75,6 +74,7 @@
 		CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		D1765B8B2334721B03A80D7645072D96 /* Pods_pingbox_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_pingbox_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFC19F46D403D539B6ED3C2AB9CD7854 /* pingbox-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "pingbox-umbrella.h"; sourceTree = "<group>"; };
+		E0E5A7A197A84F7EE05A26D5EACB7461 /* LMConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LMConfiguration.h; sourceTree = "<group>"; };
 		EED6CA4AA6B7226ACAF154721E02CA2C /* Pods-pingbox_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-pingbox_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -87,19 +87,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		24FDC082ED2BEC40F91C52904D6AE8CD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E25C5F00E817036BA89F8906D9D3E6EA /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		59F0D3D6387045EF7152A1402D32CEFD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				18753E48B049B1E31845499A2648D240 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		6087F577E612B2130A494AB13E89A063 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4E0A2ACE874BF6E12FB5E16DB4ACD501 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,11 +145,26 @@
 		45E52B05F8F91E13A0A08BD89498BE7D /* pingbox */ = {
 			isa = PBXGroup;
 			children = (
-				C45F6ABEBA163AF8D8D41DD8777D66FF /* pingbox */,
+				9DD24C288EE407DF820C28320531F44F /* pingbox */,
 				CD5BAC1723562B2F65CDB5AFEBB32469 /* Support Files */,
 			);
 			name = pingbox;
 			path = ../..;
+			sourceTree = "<group>";
+		};
+		644DC75CEC47170C1316019EA1F4A23C /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				E0E5A7A197A84F7EE05A26D5EACB7461 /* LMConfiguration.h */,
+				69421C10C826AECD33BFA788695D9023 /* LMConfiguration.m */,
+				1F5279257D935FD36268B12591FAA0BE /* LMNotification.h */,
+				91A7793AAE1296E151D9FC6D7F34D53A /* LMNotification.m */,
+				B094C3134724866DC01D0FC667862BF8 /* LMNotificationCenter.h */,
+				99B117B1C30DA2096E4E73BB0A92A014 /* LMNotificationCenter.m */,
+				2EFFFED0ECDF6D49A1BDF2AD663952D2 /* LMTopAlignedLabel.h */,
+				3122D39DF9AE534DF17436CA2EF2E2B0 /* LMTopAlignedLabel.m */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		757FB6B396B3A15138BE80D7CD1300EB /* Targets Support Files */ = {
@@ -159,21 +174,6 @@
 				89F8901D79369D6BEE2E595ACEADEEA6 /* Pods-pingbox_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		76557A93BE076BE486512D33D29358A5 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				1EBCED6317A8050202B28F9A6066BAB1 /* LMNotification.h */,
-				89EA95DD2E14776353ECEE96C9BE48EB /* LMNotification.m */,
-				456F7CF8603769352629A6CF7A5FB20F /* LMNotificationCenter.h */,
-				2942AB24D2984AE07EAC2F528F638FC5 /* LMNotificationCenter.m */,
-				1BF84D821D21E3810091746D /* LMTopAlignedLabel.h */,
-				1BF84D831D21E3810091746D /* LMTopAlignedLabel.m */,
-				1BDF0E581D26AD7F0052176C /* LMConfiguration.h */,
-				1BDF0E591D26AD7F0052176C /* LMConfiguration.m */,
-			);
-			path = Classes;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -205,20 +205,20 @@
 			path = "Target Support Files/Pods-pingbox_Tests";
 			sourceTree = "<group>";
 		};
+		9DD24C288EE407DF820C28320531F44F /* pingbox */ = {
+			isa = PBXGroup;
+			children = (
+				644DC75CEC47170C1316019EA1F4A23C /* Classes */,
+			);
+			path = pingbox;
+			sourceTree = "<group>";
+		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		C45F6ABEBA163AF8D8D41DD8777D66FF /* pingbox */ = {
-			isa = PBXGroup;
-			children = (
-				76557A93BE076BE486512D33D29358A5 /* Classes */,
-			);
-			path = pingbox;
 			sourceTree = "<group>";
 		};
 		CD5BAC1723562B2F65CDB5AFEBB32469 /* Support Files */ = {
@@ -254,15 +254,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D23C29737A1347571363F9B673CC54EE /* Headers */ = {
+		3A01EE372384AC36BB37E332EB8F386D /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				23642AD51C0CCE9852947ABAC9561605 /* LMNotification.h in Headers */,
-				6E52E1DCBA20A4DD123B133E6E396CDB /* LMNotificationCenter.h in Headers */,
-				1BF84D841D21E3810091746D /* LMTopAlignedLabel.h in Headers */,
-				0817EE49AEAEE2346A54C0AA5B8BFA49 /* pingbox-umbrella.h in Headers */,
-				1BDF0E5A1D26AD7F0052176C /* LMConfiguration.h in Headers */,
+				4455A822B756EF4845A89091D1E1E7B7 /* LMConfiguration.h in Headers */,
+				4E2FA1ADBB33CF6DAB3A50F234911F0B /* LMNotification.h in Headers */,
+				55622E373D1DBF115C373DE21A27CC96 /* LMNotificationCenter.h in Headers */,
+				29585D0357207CEF71D4068D78DE9A29 /* LMTopAlignedLabel.h in Headers */,
+				B02F2BFCF6970E515C48946281A21DBE /* pingbox-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,13 +312,13 @@
 			productReference = C8D183D7891B9EB82A09F32A6655964F /* Pods_pingbox_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		E83155F7B91DBE21952C0EDD5E39F3A2 /* pingbox */ = {
+		B89EBDB7263E274527831D4282AB89B8 /* pingbox */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8E2BA735E38E32A380A741101259BA69 /* Build configuration list for PBXNativeTarget "pingbox" */;
+			buildConfigurationList = 2E81DD1936B9ADC952BFB0E30A4558E2 /* Build configuration list for PBXNativeTarget "pingbox" */;
 			buildPhases = (
-				8F29204E6D6864C4F3556CDA9C570986 /* Sources */,
-				6087F577E612B2130A494AB13E89A063 /* Frameworks */,
-				D23C29737A1347571363F9B673CC54EE /* Headers */,
+				B9B3A08A7EC7AAB87E110F092237D4E0 /* Sources */,
+				24FDC082ED2BEC40F91C52904D6AE8CD /* Frameworks */,
+				3A01EE372384AC36BB37E332EB8F386D /* Headers */,
 			);
 			buildRules = (
 			);
@@ -337,12 +337,6 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0700;
-				TargetAttributes = {
-					AE5B3BAC21542F5FA107674906EC4873 = {
-						DevelopmentTeam = KTT9G859MR;
-						DevelopmentTeamName = "Lime - HighTech Solutions s.r.o.";
-					};
-				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -356,7 +350,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E83155F7B91DBE21952C0EDD5E39F3A2 /* pingbox */,
+				B89EBDB7263E274527831D4282AB89B8 /* pingbox */,
 				AE5B3BAC21542F5FA107674906EC4873 /* Pods-pingbox_Example */,
 				95E735D8DF15B0303CF8D7A53EDD2E93 /* Pods-pingbox_Tests */,
 			);
@@ -372,15 +366,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8F29204E6D6864C4F3556CDA9C570986 /* Sources */ = {
+		B9B3A08A7EC7AAB87E110F092237D4E0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DD7B1209612A523A57888F1B6DD80CE6 /* LMNotification.m in Sources */,
-				3C21FF0A6782181C6B09DF4EE39056F6 /* LMNotificationCenter.m in Sources */,
-				1BF84D851D21E3810091746D /* LMTopAlignedLabel.m in Sources */,
-				20F6DE65B44F9BFF9C89443F4431FAC1 /* pingbox-dummy.m in Sources */,
-				1BDF0E5B1D26AD7F0052176C /* LMConfiguration.m in Sources */,
+				69D7A340221E9EFBD94491EF2CC83BFA /* LMConfiguration.m in Sources */,
+				3FF986DE8393E9752F2575EC30139125 /* LMNotification.m in Sources */,
+				5A0203338566ED838CBF9DB238CB838F /* LMNotificationCenter.m in Sources */,
+				0A775769424CAD95657CFA6240CE51A1 /* LMTopAlignedLabel.m in Sources */,
+				28C2A090D7A894D3E44710C4A3141C20 /* pingbox-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -398,7 +392,7 @@
 		530F62AE6AD2BA557583FE369B3002FB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = pingbox;
-			target = E83155F7B91DBE21952C0EDD5E39F3A2 /* pingbox */;
+			target = B89EBDB7263E274527831D4282AB89B8 /* pingbox */;
 			targetProxy = E3DFB7DC23969413B3D75EF3840D0537 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -422,7 +416,6 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: subscriptions-3rd-party@lime-company.eu (SZXR2FFPNS)";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -443,11 +436,39 @@
 			};
 			name = Release;
 		};
+		1F921A344EB177DAA1F09C0FAE6084D0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C136811108C93EE2EB996926C660C185 /* pingbox.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/pingbox/pingbox-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/pingbox/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/pingbox/pingbox.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = pingbox;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		3BF88A4A92E6E8070236BD71FD587A62 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B90C71A9CEF089FB434F0326662CD44E /* Pods-pingbox_Example.debug.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
@@ -477,75 +498,10 @@
 			};
 			name = Debug;
 		};
-		6849C43903BBE0DD7C151E6011101BC0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C136811108C93EE2EB996926C660C185 /* pingbox.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/pingbox/pingbox-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/pingbox/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/pingbox/pingbox.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = io.getlime.lib.pingbox;
-				PRODUCT_NAME = pingbox;
-				PROVISIONING_PROFILE_SPECIFIER = KTT9G859MR/;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		694A53B0D310843652215C51E997ABB9 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C136811108C93EE2EB996926C660C185 /* pingbox.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/pingbox/pingbox-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/pingbox/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/pingbox/pingbox.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = io.getlime.lib.pingbox;
-				PRODUCT_NAME = pingbox;
-				PROVISIONING_PROFILE_SPECIFIER = KTT9G859MR/;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		8090DE3FD223FB6C55FB4204B1315FB5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6AB43E24CA6670FCDBB6572CCD1BC147 /* Pods-pingbox_Example.release.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
@@ -659,7 +615,6 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: subscriptions-3rd-party@lime-company.eu (SZXR2FFPNS)";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -684,6 +639,35 @@
 			};
 			name = Debug;
 		};
+		E9A710379424F28E8A88BD2A4DF98C62 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C136811108C93EE2EB996926C660C185 /* pingbox.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/pingbox/pingbox-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/pingbox/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/pingbox/pingbox.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = pingbox;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -705,11 +689,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8E2BA735E38E32A380A741101259BA69 /* Build configuration list for PBXNativeTarget "pingbox" */ = {
+		2E81DD1936B9ADC952BFB0E30A4558E2 /* Build configuration list for PBXNativeTarget "pingbox" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6849C43903BBE0DD7C151E6011101BC0 /* Debug */,
-				694A53B0D310843652215C51E997ABB9 /* Release */,
+				1F921A344EB177DAA1F09C0FAE6084D0 /* Debug */,
+				E9A710379424F28E8A88BD2A4DF98C62 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
