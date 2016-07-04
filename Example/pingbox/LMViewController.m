@@ -34,6 +34,7 @@
         notification1.approveButtonTitle = @"Zjistit více";
         notification1.cancelButtonTitle = @"Zrušit";
         notification1.icon = [UIImage imageNamed:@"ic_star.png"];
+        notification1.userInfo = @{ @"id" : @"notification_12" };
         
         LMNotification *notification2 = [[LMNotification alloc] init];
         notification2.title = @"Změna zůstatku";
