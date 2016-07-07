@@ -29,7 +29,7 @@ notification.message = @"You just got a great benefit from us.";
 notification.approveButtonTitle = @"Learn more";
 notification.cancelButtonTitle = @"Cancel";
 notification.icon = [UIImage imageNamed:@"icon.png"];
-notification1.userInfo = @{ // any object info that identifies the notification
+notification.userInfo = @{ // any object info that identifies the notification
     @"id" : @"notification_12"
 };
 
