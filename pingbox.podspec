@@ -23,7 +23,7 @@ view stack in the bottom of the screen, with a "cancel" and "approve" buttons".
   s.social_media_url = 'https://twitter.com/air_bank'
 
   s.platform = :ios, '7.0'
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '7.0'
 
   s.source_files = 'pingbox/Classes/**/*'
 
